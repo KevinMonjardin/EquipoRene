@@ -26,4 +26,3 @@ while True:
     time.sleep_ms(time_to_sleep)
     red.off()
     time.sleep_ms(time_to_sleep)
-# ky-016
