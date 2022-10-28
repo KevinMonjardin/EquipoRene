@@ -1,3 +1,3 @@
 # RGB
 
-<img src="https://im5.ezgif.com/tmp/ezgif-5-c608c66d19.gif">
+![image](./../313297148_674160470694090_2559266127436127854_n.gif)
